@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7d84e6cfa2e23934bb061e96bb802f57, type: 3}
+  m_Name: BubbaBubbaphantPlushie
+  m_EditorClassIdentifier: 
+  itemId: 0
+  itemName: Bubba Bubbaphant
+  spawnPositionTypes: []
+  twoHanded: 0
+  twoHandedAnimation: 0
+  disableHandsOnWall: 0
+  canBeGrabbedBeforeGameStart: 1
+  weight: 1.095238
+  itemIsTrigger: 0
+  holdButtonUse: 0
+  itemSpawnsOnGround: 1
+  isConductiveMetal: 0
+  isScrap: 1
+  creditsWorth: 100
+  lockedInDemo: 0
+  highestSalePercentage: 100
+  maxValue: 170
+  minValue: 140
+  spawnPrefab: {fileID: 9167275228622425773, guid: 28c98d3ec828a184d83a391107499e32,
+    type: 3}
+  requiresBattery: 0
+  batteryUsage: 0
+  automaticallySetUsingPower: 0
+  itemIcon: {fileID: 21300000, guid: 7c8525570ba59ce49a284cf35a047082, type: 3}
+  grabAnim: HoldLung
+  useAnim: 
+  pocketAnim: 
+  throwAnim: 
+  grabAnimationTime: 0
+  grabSFX: {fileID: 0}
+  dropSFX: {fileID: 0}
+  pocketSFX: {fileID: 0}
+  throwSFX: {fileID: 0}
+  syncGrabFunction: 1
+  syncUseFunction: 1
+  syncDiscardFunction: 1
+  syncInteractLRFunction: 1
+  saveItemVariable: 0
+  isDefensiveWeapon: 0
+  toolTips: []
+  verticalOffset: 0.1
+  floorYOffset: 0
+  allowDroppingAheadOfPlayer: 1
+  restingRotation: {x: 280, y: 0, z: 90}
+  rotationOffset: {x: 90, y: 90, z: 0}
+  positionOffset: {x: -0.315, y: 0.14, z: -0.02}
+  meshOffset: 1
+  meshVariants: []
+  materialVariants: []
+  usableInSpecialAnimations: 0
+  canBeInspected: 0

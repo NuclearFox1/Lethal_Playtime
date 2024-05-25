@@ -1,0 +1,60 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e69434853ea422647bdfbf17aab166e5, type: 3}
+  m_Name: Miss Delight Terminal Node
+  m_EditorClassIdentifier: 
+  displayText: 'Miss Delight has shimmering golden hair with a crimson bow tie perched
+    atop of her head. She wears a torn crimson skirt adorned with playful polka dots
+    and a vibrant tri-color shirt of blue, red, and yellow with an apple symbol on
+    it. A crimson tie can be seen accentuating her office shirt. Her once smiling
+    grin is now completely broken, exposing the now dirty flesh and teeth underneath.
+    Part of her shirt is torn and dirty, which likely occurred during The Hour of
+    Joy.
+
+    
+
+    Her shoes are encased in a pair of crimson hues, and have intricate
+    blue embroidery on them. Her body is made up of several segments on different
+    joints, resembling that of a ball-jointed doll.
+
+    
+
+    She wields a make-shift
+    morning star called "Barb." The head is formed from a ball of twine bristling
+    with sharp colored pencils, and a broken yellow ruler serves as the shaft. Both
+    the head and the sharp end of the handle are covered in dried blood.
+
+'
+  terminalEvent: 
+  clearPreviousText: 1
+  maxCharactersToType: 1000
+  buyItemIndex: -1
+  isConfirmationNode: 0
+  buyRerouteToMoon: -1
+  displayPlanetInfo: -1
+  lockedInDemo: 0
+  shipUnlockableID: -1
+  buyUnlockable: 0
+  returnFromStorage: 0
+  itemCost: 0
+  creatureFileID: -1
+  creatureName: Miss Delight
+  storyLogFileID: -1
+  overrideOptions: 0
+  acceptAnything: 0
+  terminalOptions: []
+  playClip: {fileID: 0}
+  playSyncedClip: -1
+  displayTexture: {fileID: 0}
+  displayVideo: {fileID: 0}
+  loadImageSlowly: 0
+  persistentImage: 0
