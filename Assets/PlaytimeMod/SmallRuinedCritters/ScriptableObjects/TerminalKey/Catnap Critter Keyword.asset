@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a9f5c1c9b5657324daacd23b092f4181, type: 3}
+  m_Name: Catnap Critter Keyword
+  m_EditorClassIdentifier: 
+  word: catnap critter
+  isVerb: 0
+  compatibleNouns: []
+  specialKeywordResult: {fileID: 11400000, guid: de0f19cb3c741ac4e8248f28e4cd8289,
+    type: 2}
+  defaultVerb: {fileID: 11400000, guid: 95d98e564718811469332fe45b9b1485, type: 2}
+  accessTerminalObjects: 0

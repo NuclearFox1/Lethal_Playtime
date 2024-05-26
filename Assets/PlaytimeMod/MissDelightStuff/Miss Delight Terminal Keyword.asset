@@ -12,10 +12,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: a9f5c1c9b5657324daacd23b092f4181, type: 3}
   m_Name: Miss Delight Terminal Keyword
   m_EditorClassIdentifier: 
-  word: Miss Delight
+  word: miss delight
   isVerb: 0
   compatibleNouns: []
   specialKeywordResult: {fileID: 11400000, guid: bc45e46a792409a4b886c8fdfa3af5e0,
     type: 2}
-  defaultVerb: {fileID: 0}
+  defaultVerb: {fileID: 11400000, guid: 95d98e564718811469332fe45b9b1485, type: 2}
   accessTerminalObjects: 0

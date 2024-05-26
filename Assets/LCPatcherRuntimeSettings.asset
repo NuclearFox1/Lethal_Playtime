@@ -25,7 +25,7 @@ MonoBehaviour:
   StartingCredits: -1
   Time: 0
   AutoLoadMoon: 1
-  AutoLoadMoonReference: {fileID: 11400000, guid: 7d8b83bf2a7592d4a8061a7b06716b36,
+  AutoLoadMoonReference: {fileID: 11400000, guid: 51bcd819e692c204e9aabd5e5bebbc86,
     type: 2}
   AutoLoadMoonSceneName: 
   LoadPosterizationShader: 1
